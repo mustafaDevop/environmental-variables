@@ -1,4 +1,4 @@
-### Exercise: Environment Variables
+## Exercise: Environment Variables
 
 Configure project-level environment variables.
 
